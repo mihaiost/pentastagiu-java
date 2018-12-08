@@ -11,7 +11,7 @@ public class Average_and_sum_of_all_nr_between_range {
         Scanner scan = new Scanner(System.in);
         System.out.print("introdu primul numar intreg dorit: ");
         int n1 = scan.nextInt();
-        System.out.print("\nintrodu al doilea numar intreg dorit: ");
+        System.out.print("\nintrodu al doilea numar intreg dorit mai mare ca primul numar introdus: ");
         int n2 = scan.nextInt();
         int i;
         double suma=n1;
