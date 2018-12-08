@@ -1,3 +1,9 @@
+/*Write a program that will test whether a string ends with another string
+
+For example
+Given the following strings “Hello java world” and “orld” the output should be TRUE
+*/
+
 package main.java;
 
 public class String_ends_with_a_certain_string {
