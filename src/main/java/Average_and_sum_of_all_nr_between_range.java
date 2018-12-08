@@ -1,5 +1,8 @@
-/*Write a program that will sum up all numbers from 0 up to a target number.
-For example, for an input number 5, result should be 15 (0+1+2+3+4+5)*/
+/*Write a program that will calculate the average and sum of all numbers between the range of 2 numbers.
+For example, for range numbers 1 to 100 output should be:
+
+Sum for range 1 to 100 : 5050
+Average for range 1 to 100 : 50.5*/
 
 package main.java;
 import java.util.Scanner;
