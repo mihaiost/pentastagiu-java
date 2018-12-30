@@ -1,9 +1,13 @@
-/*Write a java program to return the index of a target element.
+/*<<<<<<< HEAD:src/main/java/Elements_index_in_array.java
+*//*Write a java program to return the index of a target element.
 
 For example:
-Given  the following array [13,20,14,5,2,8] and a target element 5 the output should be : 3 (because 5 is located at index 3 in the array)*/
+Given  the following array [13,20,14,5,2,8] and a target element 5 the output should be : 3 (because 5 is located at index 3 in the array)*//*
 
 package main.java;
+=======*/
+package main.java.HomeworkWeek2;
+//>>>>>>> penta_stagiu_2018_Mihai_Ostafie:src/main/java/HomeworkWeek2/Elements_index_in_array.java
 import java.util.Scanner;
 public class Elements_index_in_array {
 

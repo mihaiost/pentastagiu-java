@@ -1,9 +1,13 @@
-/*Write a program that will count how many times a character appears in a String
+/*<<<<<<< HEAD:src/main/java/Count_char__appears_array.java
+*//*Write a program that will count how many times a character appears in a String
 
 For example
 Given the string “Hello java world” and the target character ‘a’ the output should be 2 
-(since ‘a’ appears twice in “Hello java world”)*/
+(since ‘a’ appears twice in “Hello java world”)*//*
 package main.java;
+=======*/
+package main.java.HomeworkWeek2;
+//>>>>>>> penta_stagiu_2018_Mihai_Ostafie:src/main/java/HomeworkWeek2/Count_char__appears_array.java
 
 public class Count_char__appears_array {
 

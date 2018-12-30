@@ -1,9 +1,13 @@
-/*Write a program that test if a given String contains another String.
+/*<<<<<<< HEAD:src/main/java/String_inside_another_string.java
+*//*Write a program that test if a given String contains another String.
 
 For example
-Given the following base String “Hello java world” and the target test String “java” the output should be TRUE*/
+Given the following base String “Hello java world” and the target test String “java” the output should be TRUE*//*
 
 package main.java;
+=======*/
+package main.java.HomeworkWeek2;
+//>>>>>>> penta_stagiu_2018_Mihai_Ostafie:src/main/java/HomeworkWeek2/String_inside_another_string.java
 
 public class String_inside_another_string {
 

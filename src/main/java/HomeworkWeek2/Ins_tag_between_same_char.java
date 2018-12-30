@@ -1,9 +1,13 @@
-/*Write a program that will insert a # between any duplicate letters that are placed right next to each.
-For example
-
-Given the following string “Hello world” the output should be “Hel#lo world”*/
-
-package main.java;
+//<<<<<<< HEAD:src/main/java/Ins_tag_between_same_char.java
+///*Write a program that will insert a # between any duplicate letters that are placed right next to each.
+//For example
+//
+//Given the following string “Hello world” the output should be “Hel#lo world”*/
+//
+//package main.java;
+//=======
+package main.java.HomeworkWeek2;
+//>>>>>>> penta_stagiu_2018_Mihai_Ostafie:src/main/java/HomeworkWeek2/Ins_tag_between_same_char.java
 
 public class Ins_tag_between_same_char {
 

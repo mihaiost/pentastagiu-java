@@ -1,8 +1,12 @@
-/*Write a java program that will concatenate 2 arrays. 
+/*<<<<<<< HEAD:src/main/java/Concat_2_arrays.java
+*//*Write a java program that will concatenate 2 arrays.
 For example
-Given 2 arrays [1,2,3,4] and [5,6,7,8] the output should be a new array containing [1,2,3,4,5,6,7,8]*/
+Given 2 arrays [1,2,3,4] and [5,6,7,8] the output should be a new array containing [1,2,3,4,5,6,7,8]*//*
 
 package main.java;
+=======*/
+package main.java.HomeworkWeek2;
+//>>>>>>> penta_stagiu_2018_Mihai_Ostafie:src/main/java/HomeworkWeek2/Concat_2_arrays.java
 
 public class Concat_2_arrays {
 
@@ -16,5 +20,6 @@ public class Concat_2_arrays {
         for (k = 0; k < a2.length; k++){ concat[i] = a2[k]; i++;
         }
         for (k = 0; k < i; k++)System.out.print(" " + concat[k]);  // :D
+        //System.out.println(Arrays.toString(concat));
     }
 }

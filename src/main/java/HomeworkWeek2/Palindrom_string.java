@@ -1,10 +1,14 @@
-/*Write a program to test whether a given string is a palindrome or not
+/*<<<<<<< HEAD:src/main/java/Palindrom_string.java
+*//*Write a program to test whether a given string is a palindrome or not
 
 For example
 Given the following string “aaabccbaaa” should return TRUE
-Given the following string “abccbb” should return FALSE*/
+Given the following string “abccbb” should return FALSE*//*
 
 package main.java;
+=======*/
+package main.java.HomeworkWeek2;
+//>>>>>>> penta_stagiu_2018_Mihai_Ostafie:src/main/java/HomeworkWeek2/Palindrom_string.java
 
 public class Palindrom_string {
 

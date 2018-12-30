@@ -1,30 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73ab2179-57f8-4d1a-9f9b-9949df54455c" name="Default Changelist" comment="penta_stagiu_2018_Mihai_Ostafie">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pentastagiu-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Average_and_sum_of_all_nr_between_range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Concat_2_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Count_char__appears_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Count_odd_even_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Elements_index_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fibonaci_nr_media_lor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/First_and_the_last_element_of_an_int_array_are_the_same.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ins_tag_between_same_char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JustAGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Min_max_avg_from_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrom_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Replace_letters_with_nr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String_ends_with_a_certain_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String_inside_another_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sum_up_all_nrs_to_target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Whether_2_int_arrays_are_equal.java" afterDir="false" />
+    <list default="true" id="73ab2179-57f8-4d1a-9f9b-9949df54455c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Calculate_the_perimeter_and_area_for_common_shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/CommonShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Display_messages_app/Display_messages_app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Display_messages_app/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/The_BANK_app/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/The_BANK_app/The_Bank_app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/the_Book_and_Candy_shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Average_and_sum_of_all_nr_between_range.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Average_and_sum_of_all_nr_between_range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Average_and_sum_of_all_nr_between_range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Concat_2_arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Concat_2_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Concat_2_arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Count_char__appears_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Count_char__appears_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Count_char__appears_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Count_odd_even_in_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Count_odd_even_in_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Count_odd_even_in_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Elements_index_in_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Elements_index_in_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Elements_index_in_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fibonaci_nr_media_lor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fibonaci_nr_media_lor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Fibonaci_nr_media_lor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_and_the_last_element_of_an_int_array_are_the_same.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_and_the_last_element_of_an_int_array_are_the_same.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/First_and_the_last_element_of_an_int_array_are_the_same.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ins_tag_between_same_char.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ins_tag_between_same_char.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Ins_tag_between_same_char.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JustAGenericClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JustAGenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/JustAGenericClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Min_max_avg_from_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Min_max_avg_from_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Min_max_avg_from_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrom_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrom_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Palindrom_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Replace_letters_with_nr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Replace_letters_with_nr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Replace_letters_with_nr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_ends_with_a_certain_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_ends_with_a_certain_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/String_ends_with_a_certain_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_inside_another_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_inside_another_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/String_inside_another_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sum_up_all_nrs_to_target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sum_up_all_nrs_to_target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Sum_up_all_nrs_to_target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Whether_2_int_arrays_are_equal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Whether_2_int_arrays_are_equal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Whether_2_int_arrays_are_equal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,12 +60,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Palindrom_string.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Calculate_the_perimeter_and_area_for_common_shapes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="340">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Average_and_sum_of_all_nr_between_range.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/First_and_the_last_element_of_an_int_array_are_the_same.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -64,11 +108,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/JustAGenericClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sum_up_all_nrs_to_target.java" />
         <option value="$PROJECT_DIR$/src/main/java/plm.java" />
         <option value="$PROJECT_DIR$/src/main/java/fibonaci_nr_media_lor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Average_and_sum_of_all_nr_between_range.java" />
         <option value="$PROJECT_DIR$/src/main/java/first_and_the_last_element_of_an_int_array_are_the_same.java" />
         <option value="$PROJECT_DIR$/src/main/java/whether_2_int_arrays_are_equal.java" />
         <option value="$PROJECT_DIR$/src/main/java/concat_2_arrays.java" />
@@ -84,12 +126,45 @@
         <option value="$PROJECT_DIR$/src/main/java/ins_tag_between_same_char.java" />
         <option value="$PROJECT_DIR$/src/main/java/replace_letters_with_nr.java" />
         <option value="$PROJECT_DIR$/src/main/java/Palindrom_string.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JustAGenericClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ins_tag_between_same_char.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tst.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Concat_2_arrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Average_and_sum_of_all_nr_between_range.java" />
+        <option value="$PROJECT_DIR$/src/main/HomeworkWeek2/Ins_tag_between_same_char.java" />
+        <option value="$PROJECT_DIR$/src/main/HomeworkWeek2/HomeworkWeek2/Ins_tag_between_same_char.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Min_max_avg_from_array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Min_max_avg_from_array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/CommonShape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/CommonShape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Calculate_the_perimeter_and_area_for_common_shapes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/The_BANK_app/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/The_BANK_app/The_Bank_app.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Basket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Candy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/the_Book_and_Candy_shop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Display_messages_app/user.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Ins_tag_between_same_char.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Display_messages_app/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek3/Display_messages_app/Display_messages_app.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Concat_2_arrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkWeek2/Average_and_sum_of_all_nr_between_range.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="718" />
-    <option name="y" value="77" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1091" />
     <option name="height" value="753" />
   </component>
@@ -101,8 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,16 +194,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pentastagiu-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pentastagiu-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeworkWeek2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544298225657" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546197689737" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -151,13 +234,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Count_char__appears_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Count_char__appears_array" />
+  <component name="RunManager" selected="Application.Count_odd_even_in_array">
+    <configuration name="Average_and_sum_of_all_nr_between_range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.HomeworkWeek2.Average_and_sum_of_all_nr_between_range" />
       <module name="pentastagiu-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.*" />
+          <option name="PATTERN" value="main.java.HomeworkWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +248,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ins_tag_between_same_char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Ins_tag_between_same_char" />
+    <configuration name="Calculate_the_perimeter_and_area_for_common_shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.HomeworkWeek3.Calculate_the_perimeter_and_area_for_common_shapes.Calculate_the_perimeter_and_area_for_common_shapes" />
       <module name="pentastagiu-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.*" />
+          <option name="PATTERN" value="main.java.HomeworkWeek3.Calculate_the_perimeter_and_area_for_common_shapes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrom_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Palindrom_string" />
+    <configuration name="Concat_2_arrays (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.HomeworkWeek2.Concat_2_arrays" />
       <module name="pentastagiu-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.*" />
+          <option name="PATTERN" value="main.java.HomeworkWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace_letters_with_nr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Replace_letters_with_nr" />
+    <configuration name="Count_odd_even_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.HomeworkWeek2.Count_odd_even_in_array" />
       <module name="pentastagiu-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.*" />
+          <option name="PATTERN" value="main.java.HomeworkWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,26 +287,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insert_a_tag_between_any_duplicate_letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.insert_a_tag_between_any_duplicate_letters" />
+    <configuration name="Min_max_avg_from_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Min_max_avg_from_array" />
       <module name="pentastagiu-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrom_string" />
-        <item itemvalue="Application.Replace_letters_with_nr" />
-        <item itemvalue="Application.Ins_tag_between_same_char" />
-        <item itemvalue="Application.insert_a_tag_between_any_duplicate_letters" />
-        <item itemvalue="Application.Count_char__appears_array" />
+        <item itemvalue="Application.Count_odd_even_in_array" />
+        <item itemvalue="Application.Average_and_sum_of_all_nr_between_range" />
+        <item itemvalue="Application.Concat_2_arrays (1)" />
+        <item itemvalue="Application.Calculate_the_perimeter_and_area_for_common_shapes" />
+        <item itemvalue="Application.Min_max_avg_from_array" />
       </list>
     </recent_temporary>
   </component>
@@ -239,12 +316,33 @@
       <updated>1544245577046</updated>
       <workItem from="1544245578496" duration="454000" />
       <workItem from="1544246036978" duration="34813000" />
-      <workItem from="1544294287530" duration="3914000" />
+      <workItem from="1544294287530" duration="4354000" />
+      <workItem from="1544304931477" duration="576000" />
+      <workItem from="1544305945063" duration="1138000" />
+      <workItem from="1544308409143" duration="295000" />
+      <workItem from="1544310034678" duration="249000" />
+      <workItem from="1545628051796" duration="10451000" />
+      <workItem from="1545689878624" duration="3323000" />
+      <workItem from="1545736562722" duration="1932000" />
+      <workItem from="1545766437196" duration="6026000" />
+      <workItem from="1545813233612" duration="18795000" />
+      <workItem from="1545857837122" duration="692000" />
+      <workItem from="1545859317634" duration="351000" />
+      <workItem from="1545859696658" duration="119000" />
+      <workItem from="1546084929959" duration="1304000" />
     </task>
+    <task id="LOCAL-00001" summary="penta_stagiu_2018_Mihai_Ostafie">
+      <created>1544298243859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544298243859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39181000" />
+    <option name="totallyTimeSpent" value="84872000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,7 +357,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29270834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -268,17 +366,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48187634" visible="true" weight="0.22101842" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47121534" weight="0.22101842" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5181237" side_tool="true" visible="true" weight="0.22101842" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.445629" weight="0.27843988" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5954158" side_tool="true" weight="0.27843988" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.40511727" visible="true" weight="0.27830687" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -289,9 +387,66 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47121534" weight="0.22101842" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5954158" side_tool="true" visible="true" weight="0.27843988" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.40511727" visible="true" weight="0.27843988" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="m" />
@@ -307,27 +462,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/plm.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Average_and_sum_of_all_nr_between_range.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Count_odd_even_in_array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Fibonaci_nr_media_lor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/palindrome.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/StringLatin1.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -337,94 +471,248 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/insert_a_tag_between_any_duplicate_letters.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/First_and_the_last_element_of_an_int_array_are_the_same.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JustAGenericClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="1" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String_ends_with_a_certain_string.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tst.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Palindrom_string.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String_inside_another_string.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Sum_up_all_nrs_to_target.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Replace_letters_with_nr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Min_max_avg_from_array.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/String_ends_with_a_certain_string.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Whether_2_int_arrays_are_equal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Sum_up_all_nrs_to_target.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="43" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Count_char__appears_array.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Whether_2_int_arrays_are_equal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ins_tag_between_same_char.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Count_odd_even_in_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Elements_index_in_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Fibonaci_nr_media_lor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/JustAGenericClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/CommonShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="127" />
+          <folding>
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="90" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Replace_letters_with_nr.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="289">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concat_2_arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Elements_index_in_array.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Count_char__appears_array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrom_string.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/String_inside_another_string.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Basket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/Candy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Ins_tag_between_same_char.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/The_BANK_app/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/The_BANK_app/The_Bank_app.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/the_Book_and_Candy_shop/the_Book_and_Candy_shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Display_messages_app/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Display_messages_app/Display_messages_app.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="62" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Min_max_avg_from_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek3/Calculate_the_perimeter_and_area_for_common_shapes/Calculate_the_perimeter_and_area_for_common_shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Concat_2_arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/First_and_the_last_element_of_an_int_array_are_the_same.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkWeek2/Average_and_sum_of_all_nr_between_range.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>

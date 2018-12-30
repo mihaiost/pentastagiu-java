@@ -1,10 +1,14 @@
-/*Write a java program that will test whether the first and the last element of an int array are the same. We can assume the array has 2 or more elements.
+/*<<<<<<< HEAD:src/main/java/First_and_the_last_element_of_an_int_array_are_the_same.java
+*//*Write a java program that will test whether the first and the last element of an int array are the same. We can assume the array has 2 or more elements.
 
 For example:
 For the following input [13,6,2,8,2,3] the output should be : FALSE
-For the following input [13,6,2,8,2,13] the output should be : TRUE*/
+For the following input [13,6,2,8,2,13] the output should be : TRUE*//*
 
 package main.java;
+=======*/
+package main.java.HomeworkWeek2;
+//>>>>>>> penta_stagiu_2018_Mihai_Ostafie:src/main/java/HomeworkWeek2/First_and_the_last_element_of_an_int_array_are_the_same.java
 import java.util.Scanner;
 public class First_and_the_last_element_of_an_int_array_are_the_same {
 
