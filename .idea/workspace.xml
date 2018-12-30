@@ -116,44 +116,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pentastagiu-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pentastagiu-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkWeek2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pentastagiu-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pentastagiu-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkWeek3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pentastagiu-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pentastagiu-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkWeek3" type="462c0819:PsiDirectoryNode" />
-              <item name="Display_messages_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pentastagiu-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pentastagiu-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkWeek3" type="462c0819:PsiDirectoryNode" />
-              <item name="The_BANK_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pentastagiu-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pentastagiu-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkWeek3" type="462c0819:PsiDirectoryNode" />
-              <item name="the_Book_and_Candy_shop" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -165,7 +127,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546175163953" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546197001018" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -304,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546173550594</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="penta_stagiu_2018_Mihai_Ostafie">
+      <created>1546175239522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546175239522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -388,6 +357,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="m" />
     <MESSAGE value="penta_stagiu_2018_Mihai_Ostafie" />
     <option name="LAST_COMMIT_MESSAGE" value="penta_stagiu_2018_Mihai_Ostafie" />
